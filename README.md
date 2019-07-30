@@ -1,0 +1,1 @@
+# aurea-java-brp-cs-ruletest
